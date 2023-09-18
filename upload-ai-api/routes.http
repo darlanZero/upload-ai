@@ -37,5 +37,5 @@ Content-Type: application/json
 {
   "videoId": "cb0b8332-85cd-442c-9254-575a4527ffe7",
   "temperature":0.5,
-  "template": "Gere um resumo sobre a letra da música baseada na '''{transcription}'''"
+  "prompt": "Gere um resumo sobre a letra da música baseada na '''{transcription}'''"
 }
